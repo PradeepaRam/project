@@ -1,0 +1,6 @@
+name: project_env
+Channels:
+ -bioconda
+ -defaults
+
+    
